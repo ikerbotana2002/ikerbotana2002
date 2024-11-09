@@ -1,16 +1,20 @@
-## Hi there 👋
+# Iker Botana Vázquez
 
-<!--
-**ikerbotana2002/ikerbotana2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Acerca de mí
+Soy un desarrollador con experiencia en varios lenguajes de programación y tecnologías.
 
-Here are some ideas to get you started:
+## 🛠️ Lenguajes y Tecnologías
+- **Lenguajes de Programación**: 
+  - Python
+  - JavaScript
+  - Java
+  - C++
+  - C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo
+- Angular
+- Node.js
+
+## 📫 Cómo contactarme
+- Email: ikerbotana@usal.es
+- LinkedIn: [linkedin.com/in/ikerbotana](https://www.linkedin.com/in/ikerbotana)

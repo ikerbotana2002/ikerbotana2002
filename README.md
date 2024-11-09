@@ -10,6 +10,9 @@ Soy un desarrollador con experiencia en varios lenguajes de programación y tecn
   - Java
   - C++
   - C#
+  - - ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) 
+- ![Python](https://img.shields.io/badge/language-Python-blue)
+- ![Java](https://img.shields.io/badge/language-Java-red)
 
 ## 🌱 Actualmente aprendiendo
 - Angular

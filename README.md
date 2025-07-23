@@ -17,5 +17,5 @@ Soy un desarrollador con experiencia en varios lenguajes de programación y tecn
 - Node.js
 
 ## 📫 Cómo contactarme
-- Email: ikerbotana@usal.es
+- Email: ikerbotana@gmail.com
 - LinkedIn: [linkedin.com/in/ikerbotana](https://www.linkedin.com/in/ikerbotana)

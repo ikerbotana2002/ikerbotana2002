@@ -1,7 +1,7 @@
 # Iker Botana Vázquez
 
 ## 👨‍💻 Acerca de mí
-Soy un desarrollador con experiencia en varios lenguajes de programación y tecnologías.
+Titulado en Ingeniería Informática por la Universidad de Salamanca. Soy un desarrollador con experiencia en varios lenguajes de programación y tecnologías.
 
 ## 🛠️ Lenguajes y Tecnologías
 - **Lenguajes de Programación**:
